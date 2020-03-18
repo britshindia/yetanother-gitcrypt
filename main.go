@@ -5,6 +5,6 @@ import (
 	)
 
 func main () {
-	fmt.Println("yet another git crypt file created second time")
+	fmt.Println("yet another eidt this time")
 	return
 }
